@@ -1,4 +1,4 @@
-# jmaing - 42curses
+# jmaing - 42cursus
 
 These repositories cannot be explored by students before they validate the project.
 
